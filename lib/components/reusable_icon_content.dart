@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'constants.dart';
+import '../constants.dart';
 
 class ReusableIconContent extends StatelessWidget {
   final IconData icon;
